@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "elden-ring-companion",
+			"path": "Everything-Elden-Ring/elden-ring-companion"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
